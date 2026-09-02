@@ -11,3 +11,5 @@ dist/*
 *.pyc
 docs/_*
 .ipynb_checkpoints/*
+# pixi
+.pixi/

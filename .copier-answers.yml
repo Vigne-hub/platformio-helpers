@@ -1,0 +1,20 @@
+# Changes here will be overwritten by Copier; do not edit manually.
+_commit: v0.4.0
+_src_path: https://github.com/Vigne-hub/scibots-package-template.git
+channel_ref: vigne-hub/scibots
+default_branch: master
+description: Helper functions, etc. for PlatformIO projects
+flavor: python
+homepage: https://github.com/Vigne-hub/platformio-helpers
+license: BSD-3-Clause
+license_file: LICENSE.md
+module_name: platformio_helpers
+package_dir: .
+package_name: platformio-helpers
+python_min: '3.9'
+run_dependencies:
+    colorama: '*'
+    conda-helpers: '*'
+    path-helpers: '*'
+scripts: {}
+version: 0.10.6
